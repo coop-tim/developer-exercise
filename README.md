@@ -23,7 +23,7 @@ Download a copy of the code in this repository and perform a code review. Write 
 
 # Task 2 -Refactor
 
-Refactor the code so that it supports a 5-way version of rock paper scissors, featuring Fire, Water, Wood, Metal and Earth, as shown in the below rules and diagram. Please do not submit a pull request, instead zip up your code and send to us via email.
+Refactor the code so that it supports a 5-way version of rock paper scissors, featuring Fire, Water, Wood, Metal and Earth, as shown in the below rules. Please do not submit a pull request, instead zip up your code and send to us via email.
 
 - Fire burns Wood
 - Fire melts Metal
@@ -35,5 +35,3 @@ Refactor the code so that it supports a 5-way version of rock paper scissors, fe
 - Earth absorbs Water
 - Metal cuts Wood
 - Metal displaces Earth
-
-![5 way rock paper scissors](https://gcdnb.pbrd.co/images/j4wxuGFyEPzy.png?o=1)
